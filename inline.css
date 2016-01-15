@@ -1,0 +1,68 @@
+.promotion {
+	margin-top:25px;
+}
+
+.promotion .adImg {
+	float:right;
+	margin:0px 10px 0px 15px;
+}
+
+.promotion h5 {
+	font-size:14pt;
+	margin:0px 0px 0px 33px;
+	padding:15px 0px 0px 0px;
+}
+
+.promotion p {
+	margin:5px 0px 12px 15px;
+	line-height:1.5em;
+}
+
+.promotion p a.pr {
+	color:#adff1d;
+	text-decoration:underline;
+}
+
+.promotion .laddies {
+	background:#b50000;
+	color:#fff;
+}
+
+.promotionfooter {
+	padding:3px 0px 9px 0px;
+	height:27px;
+}
+
+.promotion .laddies .promotionfooter {
+	background:#e70400 url(http://www.moneta-communications.co.uk/banners/inline-adverts/ladbrokes/footer.gif) left bottom repeat-x;
+	margin:0px;
+}
+
+.promotion form {
+	margin:0px;
+	padding:0px;
+}
+
+.promotionfooter .lfooter {
+	float:left;
+	padding:4px 0px;
+	width:305px;
+}
+
+.promotionfooter .lfooter img {
+	float:left;
+	border:#fff 1px solid;
+	margin-left:10px;
+}
+
+.promotionfooter .rfooter {
+	float:right;
+	padding:3px 10px 3px 0px;
+	width:295px;
+}
+
+.promotionfooter .rfooter input {
+	float:right;
+	padding:3px 8px;
+	margin:0px;
+}

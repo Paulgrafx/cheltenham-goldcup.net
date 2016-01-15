@@ -1,0 +1,1 @@
+<div id="menu"><a href="/betting-odds.html">Cheltenham Gold Cup Odds</a><a href="promotions.html">Free Gold Cup Bets</a><a href="/form-guide.html">Gold Cup Form Guide</a><a href="/race-card.html">Gold Cup Racecard</a><a href="/runners.html">Gold Cup Runners</a><a href="/tips.html">Gold Cup Tips 2013</a></div>

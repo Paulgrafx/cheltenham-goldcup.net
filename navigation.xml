@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<navigation>
+  <section id="6cae7a5018" title="Gold Cup Betting">
+    <link id="21d2958fd7" url="/betting-odds.html" text="Gold Cup Odds" external="No"/>
+    <link id="6085c4d224" url="promotions.html" text="Free Gold Cup Bets" external="Yes"/>
+    <link id="9430d828ff" url="/form-guide.html" text="Gold Cup Form Guide" external="No"/>
+    <link id="360b8645d5" url="/race-card.html" text="Race Card" external="No"/>
+    <link id="e1eb1d2ecc" url="/runners.html" text="Cheltenham Gold Cup Runners" external="No"/>
+    <link id="5e3751ac47" url="/tips.html" text="Tips" external="No"/>
+    <link id="e4d11a40db" url="/cheltenham-festival.html" text="Cheltenham Festival 2016" external="No"/>
+    <link id="ce0047c029" url="/day-3.html" text="Day 3 Betting" external="No"/>
+  </section>
+  <section id="4f8b99418c" title="Cheltenham Gold Cup Guide">
+    <link id="d9c6d08af0" url="legends.html" text="Gold Cup Legends" external="No"/>
+    <link id="620c025d90" url="online-bets.html" text="Online Gold Cup Bets" external="No"/>
+    <link id="ffd9dfd4bb" url="opening-an-online-betting-account.html" text="Opening an Online Betting Account" external="No"/>
+    <link id="512564196b" url="/bets.html" text="Gold Cup Betting" external="No"/>
+    <link id="cfb83c0fb5" url="/race-card.html" text="Gold Cup Race Card 2015" external="No"/>
+    <link id="29e52beb2a" url="watch-live.html" text="Watch the Gold Cup Live" external="No"/>
+    <link id="fcb6fca2e0" url="key-facts.html" text="Key Gold Cup Facts" external="No"/>
+    <link id="7942437b91" url="spread-betting.html" text="Gold Cup Spread Betting" external="No"/>
+  </section>
+  <section id="6a49f4b9c4" title="Gold Cup Trial Races">
+    <link id="9b3b00fee2" url="/king-george-vi-chase.html" text="King George VI Chase" external="No"/>
+    <link id="55573c6b92" url="hennessy-gold-cup.html" text="Hennessy Gold Cup" external="No"/>
+    <link id="c5f21b37dc" url="betfair-chase.html" text="Betfair Chase" external="No"/>
+    <link id="9d8493b0eb" url="/aon-chase.html" text="Denman Chase" external="No"/>
+    <link id="8b68bc8cab" url="lexus-chase.html" text="Lexus Chase" external="No"/>
+    <link id="d0f8475912" url="irish-hennessy-gold-cup.html" text="Irish Hennessy Gold Cup" external="No"/>
+    <link id="15ee8bc6fd" url="trials.html" text="Gold Cup Trial Races" external="No"/>
+  </section>
+  <section id="92073f3531" title="Past Gold Cup Results">
+    <link id="ce09738d2d" url="2012-result.html" text="2012 Result" external="No"/>
+    <link id="47c7ce835c" url="2011-result.html" text="2011 Result" external="No"/>
+    <link id="4dc03310f1" url="2010-result.html" text="2010 Result" external="No"/>
+    <link id="29cda66635" url="2009-result.html" text="2009 Result" external="No"/>
+    <link id="850cf78aeb" url="2008-result.html" text="2008 Result" external="No"/>
+    <link id="175b132dd9" url="2007-result.html" text="2007 Result" external="No"/>
+    <link id="2347ea255b" url="2006-result.html" text="2006 Result" external="No"/>
+    <link id="4098e701c1" url="results.html" text="Past Gold Cup Winners" external="No"/>
+    <link id="2f0f6284bf" url="2013-result.html" text="2013 Result" external="No"/>
+  </section>
+  <section id="6225d9ae75" title="Potential Gold Cup Runners">
+    <link id="fba13f21a0" url="long-run.html" text="Long Run" external="No"/>
+    <link id="a08ccb0632" url="first-lieutenant.html" text="First Lieutenant" external="No"/>
+    <link id="a2c229dcb7" url="bobs-worth.html" text="Bobs Worth" external="No"/>
+    <link id="528341ecc1" url="silviniaco-conti.html" text="Silviniaco Conti" external="No"/>
+  </section>
+  <section id="fe1c410f3f" title="Cheltenham Festival 2016">
+    <link id="1e52c7f707" url="/day-1.html" text="Day 1 Centenary Day" external="No"/>
+    <link id="df1a52672e" url="/day-2.html" text="Day 2 Ladies Day" external="No"/>
+    <link id="9a3fd4b8b7" url="/day-3.html" text="Day 3 St Patricks Day" external="No"/>
+    <link id="20272749b2" url="/day-4.html" text="Day 4 Gold Cup Day" external="No"/>
+  </section>
+</navigation>

@@ -1,0 +1,50 @@
+.promo { padding:8px 15px 8px 20px; -moz-border-radius:7px; -webkit-border-radius:7px; -khtml-border-radius:7px; border-radius:7px; color:#fff; display:table; margin:10px 0; }
+.promo .lft { display:table-cell; vertical-align:top; width:346px; padding:5px 40px 13px 0; }
+.promo .rt { display:table-cell; vertical-align:middle; width:190px; padding:5px 0px; }
+.promo .lft img { border:none; }
+.promo .lft ul { margin:0 0 0 -25px; }
+.promo .lft p { margin:5px 0; }
+.promo .lft li { margin-top:5px; }
+.promo .value { text-align:center; height:134px; padding-top:15px; border-right:#013e07 1px solid; text-shadow:0.1em 0.1em #d2e889; background: #a5d13d;
+background: -moz-linear-gradient(top,  #a5d13d 0%, #7bab30 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a5d13d), color-stop(100%,#7bab30));
+background: -webkit-linear-gradient(top,  #a5d13d 0%,#7bab30 100%);
+background: -o-linear-gradient(top,  #a5d13d 0%,#7bab30 100%);
+background: -ms-linear-gradient(top,  #a5d13d 0%,#7bab30 100%);
+background: linear-gradient(top,  #a5d13d 0%,#7bab30 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a5d13d', endColorstr='#7bab30',GradientType=0 );
+-moz-border-radius-topright:7px; -webkit-border-top-right-radius:7px; border-top-right-radius:7px; 
+-moz-border-radius-bottomright:7px; -webkit-border-bottom-right-radius:7px; border-bottom-right-radius:7px;
+box-shadow: inset 5px 0 5px -3px #333, 0 5px 5px -4px #002e05, 0 -5px 5px -4px #002e05, 5px 0 5px -4px #002e05, inset -5px 0 5px -5px #d2e889; }
+.promo .value h5 { font-size:30pt; margin:6px 0; }
+.promo .value h5 small { margin:0; font-size:14pt; text-transform:uppercase; display:block; font-weight:normal; margin:5px 0; }
+
+.paddypower .rt { border-left:#1a8211 1px solid; }
+#pbody #inner #right .paddypower .value h5 a { color:#014708; text-decoration:none; }
+
+.ladbrokes .rt { border-left:#e54b49 1px solid; }
+#pbody #inner #right .ladbrokes .value h5 a { color:#b40000; text-decoration:none; }
+
+.williamhill .rt { border-left:#004e7b 1px solid; }
+#pbody #inner #right .williamhill .value h5 a { color:#00263c; text-decoration:none; }
+
+.stanjames { color:#223c03; }
+.stanjames .rt { border-left:#a3e93b 1px solid; }
+#pbody #inner #right .stanjames .value h5 a { color:#223c03; text-decoration:none; }
+
+.betfred .rt { border-left:#035fba 1px solid; }
+#pbody #inner #right .betfred .value h5 a { color:#002d59; text-decoration:none; }
+
+.coral .rt { border-left:#035fba 1px solid; }
+#pbody #inner #right .betfred .value h5 a { color:#002d59; text-decoration:none; }
+
+.bet365 .rt { border-left:#0abf90 1px solid; }
+#pbody #inner #right .bet365 .value h5 a { color:#014736; text-decoration:none; }
+
+.skybet .rt { border-left:#0d2d6d 1px solid; }
+#pbody #inner #right .skybet .value h5 a { color:#0d2d6d; text-decoration:none; }
+
+.vcbet .rt { border-left:#616161 1px solid; }
+#pbody #inner #right .vcbet .value h5 a { color:#000; text-decoration:none; }
+
+#pbody #inner #right .promo .value h5 a:hover { color:#f0efef; text-shadow:1px 1px #557d18; }
