@@ -1,9 +1,0 @@
-<?php 
-	include('includes/siteFunctions.inc.php'); 
-	$content = transformContentXML('sitemapGeneral.xml', '../../xsl/sitemap.xsl');
-	$domain = str_replace("www.", "", $_SERVER['HTTP_HOST']);
-	$sitename = ucwords(str_replace("-", " ", substr($domain, 0, strpos($domain, "."))));
-?>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><?php $metas = '<title>'.$sitename.' | 404</title><meta name="keywords" content="'.$sitename.'"><meta name="description" content="'.$sitename.'">'; echo $metas; unset($metas); ?><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="Content-Style-Type" content="text/css" /><link rel="stylesheet" type="text/css" href="/css/style.css" media="screen"><link rel="stylesheet" type="text/css" href="/css/bookies.css" media="screen"></head><body><?php include('includes-new/page-header.inc.php'); ?><div id="pbody"><?php include('includes-new/nav.inc.php'); include('includes-new/offers.inc.php'); ?><div id="inner"><div id="left"><?php include('includes-new/racecard-left.inc.php'); include('includes-new/toms-tips.inc.php'); $newsFile = '../../../betting-directory/rss/racingNewsRSS.xml'; $news = sanitize_output(transformRSS($newsFile)); echo '<div class="rightHeader" style="margin-top:20px;">Latest Racing News</div>'.$news; unset($news); ?></div><div id="right"><h1>404</h1><p>Page Not Found</p><?php echo str_replace("Â£", "£", $content); ?></div></div></div><?php 
-echo '<div id="pfooter"><div class="inner"><div id="strip"><img src="img/footerTitle.png" alt="" /></div>'; include('includes-new/footerLeft.inc.php'); 
-echo '<div class="col2"></div>'; include('includes-new/footerRight.inc.php'); echo '</div></div>'; include("includes/getClicky.inc.php"); ?></body></html>
